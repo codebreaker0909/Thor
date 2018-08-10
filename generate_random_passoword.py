@@ -1,3 +1,5 @@
+###Generate 100 Random Passwords with a prime number and export it to an excel file####
+###Author: Codebreaker999####
 import random
 import string
 def prime(num):
